@@ -5,5 +5,5 @@
 - 💬 Ask me about JavaScript or anything concerning web development.
 - 📫 How to reach me: by sending an email to [rofazayn@gmail.com](rofazayn@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Everything I know college had nothing to do with!
+- ⚡ Fun fact: University had nothing to do with anything I know.
 
