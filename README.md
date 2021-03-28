@@ -1,4 +1,4 @@
-# Hello there fellow human, I'm Rofa
+# Hello there, I'm Rofa
 
 - 🌱  I’m currently learning advanced JavaScript, TypeScript and GraphQL.
 - 🔭  I’m looking to collaborate on interesting projects.
