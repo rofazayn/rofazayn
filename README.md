@@ -1,8 +1,7 @@
 # Hello there, I'm Rofa
 
-- 🌱  I’m currently learning advanced JavaScript, TypeScript and GraphQL.
-- 🔭  I’m looking to collaborate on interesting projects.
-- 💬  Ask me anything concerning web development.
-- 📫  How to reach me: send an email to [rofazayn@gmail.com](rofazayn@gmail.com)
-- 😄  Pronouns: He/Him
+- 🌱  I’m currently learning advanced JavaScript, TypeScript and GraphQL, Microservices, Docker & Kubernetes.
+- 🔭  I’m looking to collaborate with developers on interesting projects.
+- 💬  Ask me anything concerning developement in general.
+- 📫  How to reach me? send an email to [rofazayn@gmail.com](rofazayn@gmail.com)
 
