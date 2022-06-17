@@ -1,4 +1,4 @@
-# Hello there, I'm Rofa
+# Hey, my name is Rauf
 
 - 🌱  I’m currently learning advanced JavaScript, TypeScript and GraphQL, Microservices, Docker & Kubernetes.
 - 🔭  I’m looking to collaborate with people on interesting projects.
